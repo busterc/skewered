@@ -1,5 +1,7 @@
 # skewered [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/busterc/skewered.svg)](https://greenkeeper.io/)
+
 > The simplest slugify module in the universe.
 
 ## Prerequisites
